@@ -1,0 +1,36 @@
+body {
+  margin: 15px auto auto 10px;
+}
+
+h1 {
+  color: blue;
+}
+
+.jumbotron {
+  color: purple;
+  background-color: orange;
+  text-align: center;
+  border: 2px solid green;
+  padding: 4px;
+}
+
+.important {
+  color: orange;
+}
+
+.amazing {
+  color: pink;
+}
+
+.highlight {
+  color: green;
+}
+
+.fish-type {
+  color: red;
+}
+
+.column {
+  width: 300px;
+  float: left;
+}
